@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-import Database as db
+import Convert_to_Database as db
 
 
 class scrapper():
